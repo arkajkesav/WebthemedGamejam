@@ -3,7 +3,7 @@
 
 ## Game Link: https://m-s-arkj-kesavu.itch.io/webit
 
-A collaborative game development project using ShaderLab to create engaging and interactive gaming experiences.
+A collaborative game development project using Unity/C# to create engaging and interactive gaming experiences.
 
 ## Features
 - Game development using ShaderLab
